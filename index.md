@@ -1,3 +1,1 @@
-# theme: jekyll-theme-minimal
-# title: Oscar Arellano
-# description: CISC Course Website
+# This is my Github Pages assignment. 
